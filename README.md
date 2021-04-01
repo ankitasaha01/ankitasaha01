@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **asaha5109@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/folderview?id=1-covro8mzHSyuLzfg9LjVfzfKLHHZ41_](https://drive.google.com/folderview?id=1-covro8mzHSyuLzfg9LjVfzfKLHHZ41_)
-
 - ⚡ Fun fact **I love to travel ❤️**
 
 <h3 align="left">Connect with me:</h3>

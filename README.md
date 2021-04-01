@@ -1,5 +1,5 @@
-- 👋 <h1 align="center">Hi 👋, I'm Ankita Saha</h1>
-<h3 align="center">👤</h3>
+<h1 align="center">Hi 👋, I'm Ankita Saha</h1>
+<h3 align="center">Painter, Chess lover , Frontend Coder</h3>
 
 - 💻 I have done two projects. **1. Online Grievance System, 2. Tourism management system**
 
